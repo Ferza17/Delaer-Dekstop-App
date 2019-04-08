@@ -1,0 +1,14 @@
+G:\Project\C#\CRUDSBD\CRUDSBD\bin\Debug\CRUDSBD.exe.config
+G:\Project\C#\CRUDSBD\CRUDSBD\bin\Debug\CRUDSBD.exe
+G:\Project\C#\CRUDSBD\CRUDSBD\bin\Debug\CRUDSBD.pdb
+G:\Project\C#\CRUDSBD\CRUDSBD\obj\Debug\CRUDSBD.Properties.Resources.resources
+G:\Project\C#\CRUDSBD\CRUDSBD\obj\Debug\CRUDSBD.csproj.GenerateResource.Cache
+G:\Project\C#\CRUDSBD\CRUDSBD\obj\Debug\CRUDSBD.exe
+G:\Project\C#\CRUDSBD\CRUDSBD\obj\Debug\CRUDSBD.pdb
+G:\Project\C#\CRUDSBD\CRUDSBD\obj\Debug\CRUDSBD.Views.MainMenu.resources
+G:\Project\C#\CRUDSBD\CRUDSBD\obj\Debug\CRUDSBD.Views.RegistView.resources
+G:\Project\C#\CRUDSBD\CRUDSBD\obj\Debug\CRUDSBD.Views.Login.UserControlSignIn.resources
+G:\Project\C#\CRUDSBD\CRUDSBD\obj\Debug\CRUDSBD.Views.Login.UserControlSignUp.resources
+G:\Project\C#\CRUDSBD\CRUDSBD\obj\Debug\CRUDSBD.Views.LoginView.resources
+G:\Project\C#\CRUDSBD\CRUDSBD\obj\Debug\CRUDSBD.csprojAssemblyReference.cache
+G:\Project\C#\CRUDSBD\CRUDSBD\obj\Debug\CRUDSBD.csproj.CoreCompileInputs.cache
